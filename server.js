@@ -28,6 +28,11 @@ const socialMedias = {
         'foundationYear': 2007,
         'headquarters': 'New York, NY'
     },
+    'skype':{
+        'CEO': 'Niklas Zennström',
+        'foundationYear': 2003,
+        'headquarters': 'Luxembourg, Luxembourg'
+    },
     'unknown':{
         'CEO': 'unknown',
         'foundationYear': 'unknown',

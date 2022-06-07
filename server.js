@@ -23,10 +23,10 @@ const socialMedias = {
         'foundationYear': 2005,
         'headquarters': 'San Bruno, CA'
     },
-    'youtube':{
-        'CEO': 'Susan Wojcicki',
-        'foundationYear': 2005,
-        'headquarters': 'San Bruno, CA'
+    'tumblr':{
+        'CEO': 'David Karp',
+        'foundationYear': 2007,
+        'headquarters': 'New York, NY'
     },
     'unknown':{
         'CEO': 'unknown',

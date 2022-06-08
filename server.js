@@ -33,6 +33,11 @@ const socialMedias = {
         'foundationYear': 2003,
         'headquarters': 'Luxembourg, Luxembourg'
     },
+    'snapchat':{
+        'CEO': 'Evan Spiegel',
+        'foundationYear': 2011,
+        'headquarters': 'Santa Monica, CA'
+    },
     'unknown':{
         'CEO': 'unknown',
         'foundationYear': 'unknown',

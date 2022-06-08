@@ -38,6 +38,11 @@ const socialMedias = {
         'foundationYear': 2011,
         'headquarters': 'Santa Monica, CA'
     },
+    'pinterest':{
+        'CEO': 'Ben Silbermann',
+        'foundationYear': 2009,
+        'headquarters': 'San Francisco, CA'
+    },
     'unknown':{
         'CEO': 'unknown',
         'foundationYear': 'unknown',
